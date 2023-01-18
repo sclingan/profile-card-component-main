@@ -33,8 +33,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: (https://github.com/sclingan/profile-card-component)
-- Live Site URL: (https://sclingan.github.io/profile-card-component)
+- Solution URL: (https://github.com/sclingan/profile-card-component-main)
+- Live Site URL: (https://sclingan.github.io/profile-card-component-main)
 
 ## My process
 
